@@ -1,7 +1,7 @@
 #ib1.hulu.com 
 #ib3.hulu.com
 #metcon.hulu.com
-#t2.hulu.com
+t2.hulu.com
 #vortex.hulu.com
 #ipv4.cws.conviva.com
 #ipv6.cws.conviva.com
